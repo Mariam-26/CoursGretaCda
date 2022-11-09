@@ -1,0 +1,7 @@
+.bouton {
+  border: 5px solid yellow;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+}
