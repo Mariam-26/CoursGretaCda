@@ -1,0 +1,14 @@
+.name {
+  border: 3px solid blue;
+  padding: 5px;
+  color: yellow;
+  background-color: black;
+}
+button {
+  padding: 5px;
+  border-radius: 10px;
+  border: 3px solid blue;
+  background-color: green;
+  color: white;
+
+}
