@@ -1,0 +1,12 @@
+nav {
+  margin: 0 auto;
+  text-align: center;
+}
+nav a {
+  margin-right: 100px;
+  margin-left: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+ 
+}
